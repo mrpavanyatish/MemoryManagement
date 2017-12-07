@@ -8,7 +8,7 @@ public class Test {
 		SavingsAccount account1 = new SavingsAccount(101,5000,"active",1234);
 		
 		account1 = null;
-		
+		//added y=by baaa
 		//unchecked exception example
 		//we need to write the program like, compiler should avoid tis
 		if(account1 != null)
